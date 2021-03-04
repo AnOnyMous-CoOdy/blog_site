@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_url": "mysql://root:@localhost/anonymouscoody",
+        "prod_url": "mysql://root:@localhost/anonymouscoody",
+        "fb_url": "https://facebook.com/anonymouscooder",
+        "tw_url": "https://twitter.com/anonymouscooder",
+        "gh_url": "https://github.com/anonymouscooder",
+        "blog_name": "AnOnyMous CoOder",
+        "gmail-user":"eyelensmart@gmail.com",
+        "gmail-password":"EyeLensMart@123",
+        "about_text": "Hi my name is Sachin and I create programming tutorials and I am a good boy" ,
+        "no_of_posts": 3,
+        "login_image":"login.svg",
+        "admin_user":"harry",
+        "admin_password": "subscribenow",
+        "upload_location": "C:\\Users\\sachi\\OneDrive\\Desktop\\blog project\\static\\img"
+
+    }
+}
